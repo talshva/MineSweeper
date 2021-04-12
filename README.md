@@ -1,2 +1,1 @@
-# MineSweeper
-Web version of "MineSweeper"
+# Mine-Sweeper
